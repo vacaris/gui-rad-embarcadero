@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.obj
+*.dcu
+*.dsk
+*.bak
+*.tmp
+*.log
+*.local
+__history/
+__recovery/
+.venv/
+.idea/
